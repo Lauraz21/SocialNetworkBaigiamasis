@@ -1,0 +1,6 @@
+@SocialNetworkBaigiamasis_HostAddress = http://localhost:5122
+
+GET {{SocialNetworkBaigiamasis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
